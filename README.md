@@ -16,7 +16,7 @@ heroku create [app-name]
 ```
 
 ### Step 3
-Commit and push to heroku
+Commit and push to heroku. To enable flask debug mode, add debug=True when calling app.run() in app_run.py
 
 ```cmd
 git commit
