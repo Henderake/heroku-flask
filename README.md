@@ -23,3 +23,7 @@ git commit
 git push heroku master
 ```
 
+
+## References
+1. https://stackoverflow.com/questions/17260338/deploying-flask-with-heroku
+2. https://devcenter.heroku.com/articles/getting-started-with-python
